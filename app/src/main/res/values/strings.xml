@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">SourVey</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="nume_invalid">Dati un nume valid!</string>
+    <string name="prenume_invalid">Dati un prenume valid!</string>
+    <string name="varsta_invalida">Dati o varsta valida, intre 16 si 100!</string>
+    <string name="titlu">CHESTIONAR BANCA</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="log_in">LOG IN</string>
+    <string name="login_failed">Login failed</string>
+    <string name="terms">Nu ati acceptat termenii si conditiile!</string>
+    <string name="succes">Logare cu succes!</string>
+    <string name="accept">Accept termenii si conditiile</string>
+    <string name="terms_text">Bifand casuta de mai jos, luati la cunostinta modul de prelucrare al datelor pe care aplicatia
+il necesita, generat de crearea si utilizarea unui cont</string>
+    <string name="finishText">Finalizare</string>
+    <string name="nume">Nume</string>
+    <string name="prenume">Prenume</string>
+    <string name="varsta">Varsta</string>
+    <string-array name="intrebare1">
+        <item>Ce înseamnă inflație?</item>
+        <item>Scăderea valorii banilor, ca urmare a creșterii prețurilor</item>
+        <item>Scăderi de prețuri</item>
+        <item>Că trebuie să plătești în numerar</item>
+        <item>Creșterea valorii banilor, ca urmare a scăderii prețurilor</item>
+        <item>Scăderea valorii banilor, ca urmare a creșterii prețurilor </item>
+    </string-array>
+    <string-array name="intrebare2">
+        <item>Care afirmație cu privire la dividendele pe acțiuni este adevărată?</item>
+        <item>Nu se primește niciodată dividend pe acțiuni</item>
+        <item>Dividendele pe acțiuni au întotdeauna aceeași valoare</item>
+        <item>Dividendele pe acțiuni pot varia ca valoare</item>
+        <item>Se încasează dividende la 10 ani de la cumpărarea acțiunilor</item>
+        <item>Dividendele pe acțiuni pot varia ca valoare</item>
+    </string-array>
+    <string-array name="intrebare3">
+        <item>Ce este TVA?</item>
+        <item>O taxă pe consum pentru bunuri mai scumpe de 100 lei</item>
+        <item>O taxă pe dulciuri, pentru că nu sunt sănătoase</item>
+        <item>O taxă pe salariu, care se reţine automat de către stat</item>
+        <item>O taxă pe consum pusă la majoritatea bunurilor/serviciilor</item>
+        <item>O taxă pe consum pusă la majoritatea bunurilor/serviciilor</item>
+    </string-array>
+    <string-array name="intrebare4">
+        <item>Ce este salariul brut?</item>
+        <item>Valoarea salariului pe care îl primești</item>
+        <item>Salariul pe care îl câstigi, înainte de impozitare</item>
+        <item>Diferența dintre venitul personal și venitul taxabil</item>
+        <item>Diferența dintre venitul net și venitul taxabil</item>
+        <item>Salariul pe care îl câstigi, înainte de impozitare</item>
+    </string-array>
+    <string-array name="intrebare5">
+        <item>Ce tip de cheltuieli trebuie să aibă cea mai mare prioritate?</item>
+        <item>Cumpărarea de mobilă nouă</item>
+        <item>Plata chiriei</item>
+        <item>Abonamentul la Netflix</item>
+        <item>Plata noului iPhone X</item>
+        <item>Plata chiriei</item>
+    </string-array>
+    <string-array name="intrebare6">
+        <item>Ce înseamnă să cumperi ceva pe credit?</item>
+        <item>Că primești un extra discount</item>
+        <item>Ca achiziționezi ceva cu bani luați cu împrumut</item>
+        <item>Că asiguri ceva ce ai cumpărat</item>
+        <item>Că achiziționezi ceva doar cu banii tăi</item>
+        <item>Ca achiziționezi ceva cu bani luați cu împrumut</item>
+    </string-array>
+    <string-array name="intrebare7">
+        <item>Ce este o acțiune?</item>
+        <item>Deținerea unei părți dintr-o companie</item>
+        <item>Un tip special de cont de economii deschis la o bancă</item>
+        <item>Un tip de asigurare</item>
+        <item>O monedă folosită în Uniunea Europeană</item>
+        <item>Deținerea unei părți dintr-o companie</item>
+    </string-array>
+    <string name="text_final_puncte">Ai strans urmatoarele puncte:</string>
+    <string name="cheie_nume">cheie_nume</string>
+    <string name="cheie_prenume">cheie_prenume</string>
+    <string name="cheie_varsta">cheie_varsta</string>
+    <string name="cheie_puncte">cheie_puncte</string>
+</resources>
+

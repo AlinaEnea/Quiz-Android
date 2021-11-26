@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".FinalActivity">
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        >
+        <ImageView
+            android:id="@+id/enea_alina_mihaela_shadow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/cong" />
+
+        <ImageView
+            android:id="@+id/enea_alina_mihaela_congrats"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/darkshadow" />
+
+        <TextView
+            android:id="@+id/enea_alina_mihaela_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textAlignment="center"
+            android:layout_marginTop="100dp"
+            android:fontFamily="@font/amaranth_bold"
+            android:layout_gravity="center_horizontal" />
+        <TextView
+            android:id="@+id/enea_alina_mihaela_text_puncte"
+            android:layout_marginTop="400dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/amaranth_bold"
+            android:text="@string/text_final_puncte" />
+        <TextView
+            android:id="@+id/enea_alina_mihaela_nr_puncte"
+            android:layout_width="wrap_content"
+            android:fontFamily="@font/amaranth_bold"
+            android:layout_marginTop="425dp"
+            android:textColor="@color/customPurple"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="wrap_content"
+            android:textSize="45dp" />
+    </androidx.cardview.widget.CardView>
+</LinearLayout>
